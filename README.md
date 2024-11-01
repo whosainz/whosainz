@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whosainz
 - 👀 I’m interested in technology and some future stuff
 - 🌱 I’m currently learning Flutter with my teacher
-- 📫 How to reach me : email : faiz.husain.alkhairy@gmail.com, youtube : Faiz Husain Alkhairy
+- 📫 How to reach me : email : faiz.husain.alkhairy@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was born in Indonesia, but to be specific in bekasi
 
